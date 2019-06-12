@@ -38,3 +38,6 @@ For currect spectrogram image url you need to add environment variable
 ```bash
 export FLASK_APP_URL=<FULL APP URL>
 ```
+
+## Thanks
+[@dawidkopczyk](https://github.com/dawidkopczyk) about the [article & code](http://dkopczyk.quantee.co.uk/speech-nn/)
